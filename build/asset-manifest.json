@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/wetherFour.git/static/css/main.bc7c384b.chunk.css",
+    "main.js": "/wetherFour.git/static/js/main.5503e662.chunk.js",
+    "main.js.map": "/wetherFour.git/static/js/main.5503e662.chunk.js.map",
+    "runtime-main.js": "/wetherFour.git/static/js/runtime-main.8285fda0.js",
+    "runtime-main.js.map": "/wetherFour.git/static/js/runtime-main.8285fda0.js.map",
+    "static/js/2.bb8e2b63.chunk.js": "/wetherFour.git/static/js/2.bb8e2b63.chunk.js",
+    "static/js/2.bb8e2b63.chunk.js.map": "/wetherFour.git/static/js/2.bb8e2b63.chunk.js.map",
+    "index.html": "/wetherFour.git/index.html",
+    "static/css/main.bc7c384b.chunk.css.map": "/wetherFour.git/static/css/main.bc7c384b.chunk.css.map",
+    "static/js/2.bb8e2b63.chunk.js.LICENSE.txt": "/wetherFour.git/static/js/2.bb8e2b63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8285fda0.js",
+    "static/js/2.bb8e2b63.chunk.js",
+    "static/css/main.bc7c384b.chunk.css",
+    "static/js/main.5503e662.chunk.js"
+  ]
+}
